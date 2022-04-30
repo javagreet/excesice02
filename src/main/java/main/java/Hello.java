@@ -13,5 +13,6 @@ public class Hello {
         System.out.println("master test");
         System.out.println("push test");
         System.out.println("ssh免密登录");
+        System.out.println("修改测试");
     }
 }
