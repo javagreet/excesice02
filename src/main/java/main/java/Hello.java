@@ -8,5 +8,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("哈哈哈哈哈笑死我了！");
         System.out.println("33333333333333333");
+        System.out.println("hot-fix申请出战！");
     }
 }
